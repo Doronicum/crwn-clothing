@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crwn-clothing/static/css/main.60ba9770.chunk.css",
+    "main.js": "/crwn-clothing/static/js/main.e2c53aa7.chunk.js",
+    "main.js.map": "/crwn-clothing/static/js/main.e2c53aa7.chunk.js.map",
+    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.c864eed9.js",
+    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.c864eed9.js.map",
+    "static/js/2.d4d8b76e.chunk.js": "/crwn-clothing/static/js/2.d4d8b76e.chunk.js",
+    "static/js/2.d4d8b76e.chunk.js.map": "/crwn-clothing/static/js/2.d4d8b76e.chunk.js.map",
+    "index.html": "/crwn-clothing/index.html",
+    "static/css/main.60ba9770.chunk.css.map": "/crwn-clothing/static/css/main.60ba9770.chunk.css.map",
+    "static/js/2.d4d8b76e.chunk.js.LICENSE.txt": "/crwn-clothing/static/js/2.d4d8b76e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c864eed9.js",
+    "static/js/2.d4d8b76e.chunk.js",
+    "static/css/main.60ba9770.chunk.css",
+    "static/js/main.e2c53aa7.chunk.js"
+  ]
+}
