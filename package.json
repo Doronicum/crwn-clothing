@@ -1,6 +1,6 @@
 {
   "name": "crwn-clothing",
-  "homepage": "https://Doronimcum.github.io/crwn-clothing",
+  "homepage": "https://doronicum.github.io/crwn-clothing/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
