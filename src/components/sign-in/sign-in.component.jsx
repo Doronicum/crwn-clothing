@@ -63,7 +63,7 @@ handleChange = event => {
                     />
                     <div className='buttons'>
                     <CustomButton type="submit">sign in</CustomButton>
-                    <CustomButton onClick={signInWithGoogle} isGoogleSignIn>{''}sign in with Google{''}
+                    <CustomButton onClick={signInWithGoogle} isGoogleSignIn>sign in with Google
                     </CustomButton>
                     </div>
                 </form>
